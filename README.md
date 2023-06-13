@@ -112,7 +112,7 @@ Tailmessage functionality requires the `rpt.conf` to be properly set up. Here's 
 ```ini
 tailmessagetime = 600000
 tailsquashedtime = 30000
-tailmessagelist = /usr/local/bin/SkywarnPlus/SOUNDS/WX-TAIL
+tailmessagelist = /usr/local/bin/SkywarnPlus/SOUNDS/wx-tail
 ```
 
 ### Automatic Courtesy Tones
